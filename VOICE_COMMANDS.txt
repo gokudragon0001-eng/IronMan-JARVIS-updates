@@ -1,0 +1,24 @@
+IRON MAN JARVIS - VOICE COMMANDS
+
+General apps:
+- Open WhatsApp / WhatsApp kholo
+- Open YouTube / YouTube kholo
+- Open Chrome / Chrome kholo
+
+WhatsApp contacts (contact must be saved in phone):
+- WhatsApp kholo Irfan
+- Irfan ki chat kholo
+- Open WhatsApp chat Irfan
+
+Message draft (after opening a contact chat):
+- Type Assalam-o-Alaikum
+- Likho Hello, kaise ho?
+The message is prefilled in WhatsApp. Review it and tap Send yourself.
+
+Calls:
+- WhatsApp call Irfan
+- Video call Irfan
+JARVIS opens the contact chat and tells you to tap the WhatsApp phone/video icon.
+WhatsApp does not provide a reliable public Android link for starting a call directly.
+
+Stop listening / Band ho jao
